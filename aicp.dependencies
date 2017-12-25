@@ -1,0 +1,17 @@
+[
+ {
+   "repository": "AICP/kernel_xiaomi_msm8937",
+   "target_path": "kernel/xiaomi/msm8937",
+   "branch": "n7.1"
+ },
+ {
+   "repository": "AICP/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch": "n7.1"
+ },
+ {
+   "repository": "LineageOS/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "cm-14.1"
+ }
+]
